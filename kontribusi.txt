@@ -1,0 +1,12 @@
+# Log Kontribusi Tim KelompokPerl-TK-08
+
+Ketua:
+- Salsabila Maharani M: Membuat repository GitHub, membuat struktur awal program (main) yang didalamnya terdapat juga switch case, mengatur alur kerja tim, merge Pull Request anggota.
+
+Anggota:
+- Sabbia Meilandri: Menambahkan fungsi pengurangan
+- Qais Ismail: Menambahkan fungsi pembagian
+- Novatama Eka Fitria: Menambahkan fungsi penjumlahan
+- Syifa Aulia: Menambahkan fungsi perkalian
+
+Masing-masing anggota melakukan minimal 3 commit dan mengajukan Pull Request ke branch main.
