@@ -41,3 +41,8 @@ int main(){
 printf("Result: %.2f", Result);
 return 0;
 }
+
+// division
+float Division(float a, float b) {
+    return a / b;
+}
