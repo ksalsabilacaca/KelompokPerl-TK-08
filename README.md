@@ -8,8 +8,8 @@ Program kalkulator sederhana dalam bahasa C dengan fungsi:
 - Pembagian
 
 ## Anggota Tim dan Tugas:
-- Salsabila: Fungsi penjumlahan
+- Salsabila: Main
 - Sabbia : Fungsi pengurangan
 - Syifa: Fungsi perkalian
 - Qais: Fungsi pembagian
-- Nova: Main
+- Nova: Fungsi penjumlahan
