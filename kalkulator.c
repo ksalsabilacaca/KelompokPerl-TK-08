@@ -43,6 +43,6 @@ return 0;
 }
 
 // division
-float Division(float a, float b) {
-    return a / b;
+float Division(float Num1, float Num2) {
+    return Num1 / Num2;
 }
