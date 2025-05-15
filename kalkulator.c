@@ -42,7 +42,9 @@ printf("Result: %.2f", Result);
 return 0;
 }
 
-// division
 float Division(float Num1, float Num2) {
     return Num1 / Num2;
+    
+float Multiply(float x, float y){
+    return x * y;
 }
