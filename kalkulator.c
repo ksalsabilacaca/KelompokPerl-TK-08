@@ -42,6 +42,9 @@ printf("Result: %.2f", Result);
 return 0;
 }
 
+float Add(float x, float y){
+    return x+y;
+    
 float Substraction(float Num1, float Num2)
 {
     return Num1 - Num2;
