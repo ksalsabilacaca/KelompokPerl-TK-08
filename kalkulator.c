@@ -42,18 +42,6 @@ printf("Result: %.2f", Result);
 return 0;
 }
 
-float Multiply(float x, float y){
-    return x*y;
-}
-
 float Add(float x, float y){
     return x+y;
-}
-
-float Substraction(float Num1, float Num2){
-    return Num1-Num2;
-}
-
-float Division(float Num1, float Num2){
-    return Num1/Num2;
 }
